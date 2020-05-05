@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="46" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="46" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+      <class name="qaclickacadaemy.SeleniumTest">
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:qaclickacadaemy.SeleniumTest@5383967b]" name="elementsUI" duration-ms="0" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacadaemy.SeleniumTest@5383967b]" name="BrowserAutomation" duration-ms="0" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qaclickacadaemy.SeleniumTest -->
+      <class name="qaclickacadaemy.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacadaemy.RESTAPITest@4fe3c938]" name="deleteTwitter" duration-ms="0" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="posJira()[pri:0, instance:qaclickacadaemy.RESTAPITest@4fe3c938]" name="posJira" duration-ms="0" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posJira -->
+      </class> <!-- qaclickacadaemy.RESTAPITest -->
+      <class name="qaclickacadaemy.AppiumTest">
+        <test-method status="PASS" signature="IOS()[pri:0, instance:qaclickacadaemy.AppiumTest@5ec0a365]" name="IOS" duration-ms="15" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS -->
+        <test-method status="PASS" signature="NativeAPAndroid()[pri:0, instance:qaclickacadaemy.AppiumTest@5ec0a365]" name="NativeAPAndroid" duration-ms="0" started-at="2020-04-30T12:49:38 ART" finished-at="2020-04-30T12:49:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPAndroid -->
+      </class> <!-- qaclickacadaemy.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
