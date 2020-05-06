@@ -11,6 +11,8 @@ public class RESTAPITest {
 	{
 		
 		System.out.println("POSjira");
+		System.out.println("POSjira2");
+		System.out.println("POSjira3");
 
 	}
 	
